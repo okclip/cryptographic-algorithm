@@ -1,7 +1,7 @@
-cryptonote-universal-pool
+cryptographic-algorithm
 ====================
 
-High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as Bytecoin, DuckNote, Monero, QuazarCoin, Boolberry, Dashcoin, etc..
+High performance Node.js (with native C addons) cryptographic-algorithm
 Comes with lightweight example front-end script which uses the pool's AJAX API.
 
 
